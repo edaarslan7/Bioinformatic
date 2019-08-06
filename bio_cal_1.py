@@ -1,5 +1,4 @@
 #string search
-
 str_1 = input("metni giriniz: ")
 str_2 = input("aramak istediginiz kelimeyi giriniz: ")
 def string_search(string,string_1):
