@@ -8,7 +8,6 @@ def string_search(string,string_1):
     kacTane = 0
     s = 0
     p=0
-
     for i in range(n-1,a):  #kucuk stringin son el alindigi icin boyutu kadar=n-1 , uzun stringin boyu=a
         s = n-2 #kisa olanin eleman kontrolu icin
         p=p+1
