@@ -1,5 +1,4 @@
 #Reverse Complement
-#Find the reverse complement of a DNA string
 def reverse_complement(str1):
     print("eski değer : ",str1)
     for i in range(len(str1)):
