@@ -1,4 +1,3 @@
-#hamming distance problem
 def hamming_distance(s1,s2):
     if(len(s1)==len(s2)):
         p = 0
@@ -13,9 +12,7 @@ def hamming_distance(s1,s2):
     else:
         print("Esit uzunlukta olmali...")
         
-        
-        
-        
+     
 str1 = input("Bir DNA parcasi giriniz: ")
 str2 = input("Baska bir tane daha giriniz: ")
 hamming_distance(str1,str2)
