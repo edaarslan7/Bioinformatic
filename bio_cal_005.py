@@ -11,8 +11,7 @@ def hamming_distance(s1,s2):
         return diff
     else:
         print("Esit uzunlukta olmali...")
-        
-     
+         
 str1 = input("Bir DNA parcasi giriniz: ")
 str2 = input("Baska bir tane daha giriniz: ")
 hamming_distance(str1,str2)
